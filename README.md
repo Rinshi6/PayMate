@@ -67,6 +67,4 @@ The PayTM Clone project implements MongoDB Transactions to ensure data consisten
 
 ## Contributions
 
-Contributions to the PayTM Clone project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-Thank you for using PayMate Clone! Happy Coding! 🚀
+If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
